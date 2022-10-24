@@ -19,4 +19,4 @@ It uses a **resnet101 backbone on a UNet** with an emphasis on the width of laye
 #### Video Model
 As the name suggests, it is a model used to **color the videos** and we are going to see each of these models working in a python environment. It gives smooth, consistent, and flicker-free Video. This model is the same as a stable model in the case of architecture but different in training. **DeOldify is trained on 2.2% of Imagenet dataset once at 192px, using only the initial generator/critic pretrain/GAN NoGAN training.**
 
-<img src="presentation.gif">
+<img src="Présentation1.gif">
