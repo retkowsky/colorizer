@@ -1,4 +1,4 @@
-# DeOldify is a projet to colorize and restore old images and film footage.**<br>
+# DeOldify is a projet to colorize and restore old images and film footage.
 
 > All credits: https://github.com/jantic/DeOldify
 
