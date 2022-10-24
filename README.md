@@ -3,9 +3,11 @@
 
 DeOldify is a **Black and White image Colorizing library created by Jason Antic**. DeOldify introduced the NoGAN technique to solve some of the key problems to make hyper-realistic colorization images and video. DeOldify provides **three primary models for different use case**.
 
+## Some colorized images
 <img src="Présentation1.gif">
 
-[<img src="https://github.com/retkowsky/colorizer/raw/main/colorized_video_train_en_gare_de_la_ciotat.mp4" width="50%">](https://github.com/retkowsky/colorizer/raw/main/colorized_video_train_en_gare_de_la_ciotat.mp4 "Demo Video")
+## A colorized video
+<a href="https://github.com/retkowsky/colorizer/raw/main/colorized_video_train_en_gare_de_la_ciotat.mp4">Demo Video<a>
 
 ## Python notebook
 <a href="Image Colorizer.ipynb">Image Colorizer.ipynb<a>
