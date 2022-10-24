@@ -1,9 +1,9 @@
 # DeOldify is a projet to colorize and restore old images and film footage.
 > All credits: https://github.com/jantic/DeOldify
 
-<img src="Présentation1.gif">
-
 DeOldify is a **Black and White image Colorizing library created by Jason Antic**. DeOldify introduced the NoGAN technique to solve some of the key problems to make hyper-realistic colorization images and video. DeOldify provides **three primary models for different use case**.
+
+<img src="Présentation1.gif">
 
 Each of these has some limitations and benefit:
 
