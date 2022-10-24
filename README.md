@@ -5,6 +5,10 @@ DeOldify is a **Black and White image Colorizing library created by Jason Antic*
 
 <img src="Présentation1.gif">
 
+<video width="320" height="240" controls>
+  <source src="colorized_video_train_en_gare_de_la_ciotat.mp4" type="video/mp4">
+</video>
+
 ## Python notebook
 <a href="Image Colorizer.ipynb">Image Colorizer.ipynb<a>
 
