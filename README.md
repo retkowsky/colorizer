@@ -1,6 +1,7 @@
 # DeOldify is a projet to colorize and restore old images and film footage.
-
 > All credits: https://github.com/jantic/DeOldify
+
+<img src="Présentation1.gif">
 
 DeOldify is a **Black and White image Colorizing library created by Jason Antic**. DeOldify introduced the NoGAN technique to solve some of the key problems to make hyper-realistic colorization images and video. DeOldify provides **three primary models for different use case**.
 
@@ -19,4 +20,4 @@ It uses a **resnet101 backbone on a UNet** with an emphasis on the width of laye
 #### Video Model
 As the name suggests, it is a model used to **color the videos** and we are going to see each of these models working in a python environment. It gives smooth, consistent, and flicker-free Video. This model is the same as a stable model in the case of architecture but different in training. **DeOldify is trained on 2.2% of Imagenet dataset once at 192px, using only the initial generator/critic pretrain/GAN NoGAN training.**
 
-<img src="Présentation1.gif">
+
